@@ -69,7 +69,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Git" 
     width="30px" 
     style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img style="align-text:left"
+ <img style="align-text:left color:white"
     alt="Github"
     title="Github" 
     width="30px" 
@@ -77,45 +77,5 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     <br/>
     <br/>
 
-  ### 📊 Statistics
-  <p>
-     <img
-     style="align-text:left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-     src="https://github-readme-stats.vercel.app/api?   username=Lucasmbunga&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-ao"/>
-     <img
-     style="align-text:left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmbunga)](https://github.com/Lucasmbunga/github-readme-stats&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/> 
-  </p>
 
-  <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
-          
-          
-          
-          
-          
-          
-
+ 
