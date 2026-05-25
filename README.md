@@ -1,7 +1,7 @@
 #  Lucas Mbunga António Pascoal
 **`Desevolvedor Full-stack`**
 
-Estudante de Engenharia Informática e apaixonado por desenvolvimento web. Atualmente trabalho com HTML, CSS e JavaScript/TypeScript e React.js no frontend e Java com Spring Boot no backend para criar sistemas modernos, responsivos e funcionais.
+Estudante de Engenharia Informática e apaixonado por desenvolvimento web. Atualmente trabalho com HTML5, CSS3 e JavaScript/TypeScript e React.js no frontend e Java com Spring Boot no backend para criar sistemas modernos, responsivos e funcionais.
 
    <p style="align-text:left" >
          </a>
