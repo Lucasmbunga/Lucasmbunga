@@ -16,7 +16,7 @@ Estudante de Engenharia Informática e apaixonado por desenvolvimento web. Atual
    ### 🤖 Linguagens e Tecnologias
 
    <br/>
-    <p style="display:flex gap:1em">
+    <p style="display:flex gap:2em">
     <img style="align-text:left" 
     alt="HTML"
     title="HTML" 
@@ -44,7 +44,6 @@ Estudante de Engenharia Informática e apaixonado por desenvolvimento web. Atual
     title="React.js" 
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-        
   <img style="align-text:left"
     alt="Java"
     title="Java" 
