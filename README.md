@@ -1,7 +1,7 @@
 #  Lucas Mbunga António Pascoal
 **`Desevolvedor Full`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Estudante de Engenharia Informática e apaixonado por desenvolvimento web. Atualmente trabalho com HTML, CSS e JavaScript/TypeScript no frontend e Java com Spring Boot no backend para criar sites modernos, responsivos e funcionais.
 
    <p style="align-text:left" >
          </a>
